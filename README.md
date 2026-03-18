@@ -1,6 +1,6 @@
-# xaml-build-wrapper
+# zig-xaml-beef
 
-XAML→XBF+PRI build wrapper: generates a minimal .csproj and invokes MSBuild to produce XBF (XAML Binary Format) + PRI (Package Resource Index) for non-C#/C++ projects.
+Turns XAML into beef (XBF). Generates a minimal .csproj and invokes MSBuild to produce XBF (XAML Binary Format) + PRI (Package Resource Index) for non-C#/C++ projects.
 
 ## Motivation
 
