@@ -1,6 +1,6 @@
-# zig-xaml-beef
+# zig-xaml-xbf
 
-Turns XAML into beef (XBF). Generates a minimal .csproj and invokes MSBuild to produce XBF (XAML Binary Format) + PRI (Package Resource Index) for non-C#/C++ projects.
+XAML to XBF converter. Generates a minimal .csproj and invokes MSBuild to produce XBF (XAML Binary Format) + PRI (Package Resource Index) for non-C#/C++ projects.
 
 ## Motivation
 
